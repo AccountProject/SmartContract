@@ -1,0 +1,77 @@
+Security Study - Developer’s
+_________________________________________
+
+Recruitment Scripts and survey
+Link in Qualtrics: A short screening survey to see if a person is eligible to participate in this study.
+https://ischoolillinois.az1.qualtrics.com/jfe/form/SV_9ZhND0AOZhDKve6
+
+For social media/ channel posting
+We are a group of researchers at University of Illinois at Urbana-Champaign and we are recruiting people who have experience with solidity smart contracts for a study that aims to better understand developers’ experience in developing smart contracts. The surveys and interview will take about an hour in which the researchers will ask questions about their security practices as well as there will be a code review task. There is a 30$ compensation for each participant. If you are interested, feel free to directly message me or email me at tsharma6@illinois.edu.
+Fill out the short screening survey to help us identify if you are eligible to participate in this study.
+https://ischoolillinois.az1.qualtrics.com/jfe/form/SV_9ZhND0AOZhDKve6
+
+Introduction (5min)
+Let me start by telling you a bit about this project and what we are trying to do. Our research team is trying to understand experience/practices in smart contract developing. We consider you as an expert, so there are no wrong answers to any of our questions. While you answer questions or show your perceptions, please focus on the details of how you actually develop smart contracts. It may help to think about the last time you develop a smart contract in order for us to best understand your practices and challenges. 
+
+To backup my notes, I’d like to audio record our interview session as well as screen record during the tasks. My research team may be sharing your feedback and insight anonymously in future research papers and presentations. Are you okay with me recording the conversation? Thanks. Do you have any questions before we begin? Let’s get started.
+Interview (30min)
+I’m first going to ask you a round of questions so that I can get a better grasp of your practices/experiences in smart contract developing.
+
+(Programming Background)-- General
+1. What programming languages do you use regularly? 
+2. What kinds of applications or software have you worked on? (Front-end/back-end/ android app/ios app?)
+Follow-up: What about more recent apps you worked on?
+
+
+(Smart Contract Developing)- Solidity
+
+This section of questions is more on their personal experience and stories of handling security issues on smart contract writing
+1. How would you explain smart contracts to a lay person?
+2. What role do you typically play in crypto currency projects? (Do you write smart contracts/front end?)
+3. How did you first  get to know about smart contracts? How did you learn smart contract development? (Can you give me an example?)
+4. What kind of tools are you using for smart contract development? (Follow-up: IDE, Plugins, API...) 
+5. How do you usually develop smart contracts? Can you walk me through the recent smart contract you developed? (Can you give me some examples?)
+  5.1 Did you develop it by yourself or with a team? 
+  5.2 What are the steps you went through during development? 
+  5.3 What primary factors did you consider during smart contract development? How do you prioritize those factors?
+  5.4 Do you use/follow any code writing standards? If so, what are they? 
+6. Do you have any experience in deploying smart contracts? 
+Where did you deploy it? Was it a production system or just for fun/trying things out? 
+7. Do you consider security when developing smart contracts? If so, how? What types of security related practices are you aware of? Do you follow any of those practices? Could you give me a concrete example? 
+8. What are the most frequent security issues you have encountered? Please tell us about any incident that you can remember when your developed smart contract was exposed to certain security vulnerabilities? 
+What were the security vulnerabilities?
+How did you/ your team handle this issue?
+Please tell us  how you did feel about that security incident. (nudging: Severity level? Company budget? Other team members’ feelings?)
+What would you do differently now, to avoid such an incident?
+9. Have you encountered any challenges in ensuring the security of your smart contracts? (if yes, What kinds of difficulties or challenges do you face in ensuring security of smart contracts?/ if no, Do you generally anticipate any challenges) How do you currently overcome these challenges? Can you give me a concrete example? 
+
+--------------------
+This section of questions is on their current practice (standards, tools, policy)
+10. Do you/your team consider security during smart contract development? If so, how?
+
+11. What types of methods/tools are you/your organization currently using to ensure the security of smart contracts? 
+-Have you used any automated security analysis tools? Can you explain more about the tools? (Is it easy or hard to use? How does it balance security and usability? What do you think makes tools or APIs more usable, e.g., better documentation? What kinds of tools do you want to help you ensure security of smart contracts?)
+11. Do you perform code review / testing on your (or someone else's) smart contract code base?
+-Can you share your experience on performing code reviews/testing for smart contracts?  
+
+12. What are the information sources you turn to for help with regard to security issues?
+
+Developer Tasks (25min) 
+
+We have the next activity which is code review. For this activity, can you share your screen and allow us to record the screen to better understand your experience. 
+ 
+For this activity, your task is to 1) review the code and then 2) identify the areas for improvement and modify the code, 2) Explain the improvements
+
+I am sharing the Link in the chat where you can find your assigned tasks.  For this task, you have 20 minutes. For this review activity, you can use any tools you want. 
+
+Wrap up
+I really appreciate all the time you’ve given me. As we wrap up, let me summarize some of the key points I’ve learned about your experience here.
+
+Can you share your experiences in doing the code review tasks? 
+If we are to develop tools for ensuring security of smart contracts, what kind of features would you like to have?   
+Is there anything else regarding security practices in smart contract development that you would like to add?  And Does this study have changed your perspectives and/or attitudes towards current security practices?
+Can you provide any feedback on this study?
+Can you suggest another interested person identifying as a smart contract developer who would like to get involved with the study?
+
+Thank you for your time. If you have any questions or concerns about this research, feel free to contact us! Email: tsharma6@illinois.edu 
+
