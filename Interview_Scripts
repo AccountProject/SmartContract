@@ -2,14 +2,16 @@ Security Study - Developer’s
 _________________________________________
 
 Recruitment Scripts and survey
-Link in Qualtrics: A short screening survey to see if a person is eligible to participate in this study.
-https://ischoolillinois.az1.qualtrics.com/jfe/form/SV_9ZhND0AOZhDKve6
+------------------------------
+1. Are you 18 years older?
+2. Which country do you live in?
+3. Do you have experience with developing solidity smart contracts?
+4. How many of experience in developing smart contract (with solidity) do you have?
+5. Please briefly describe your experience in developing smart contract (for example, projects you have worked on).
+6. If you are still interested in thi study, please enter your contact information (e.g. email or phone) sp we can follow up with you for the study.
 
-For social media/ channel posting
-We are a group of researchers at University of Illinois at Urbana-Champaign and we are recruiting people who have experience with solidity smart contracts for a study that aims to better understand developers’ experience in developing smart contracts. The surveys and interview will take about an hour in which the researchers will ask questions about their security practices as well as there will be a code review task. There is a 30$ compensation for each participant. If you are interested, feel free to directly message me or email me at tsharma6@illinois.edu.
-Fill out the short screening survey to help us identify if you are eligible to participate in this study.
-https://ischoolillinois.az1.qualtrics.com/jfe/form/SV_9ZhND0AOZhDKve6
-
+Semi Structured Interview
+---------------------------
 Introduction (5min)
 Let me start by telling you a bit about this project and what we are trying to do. Our research team is trying to understand experience/practices in smart contract developing. We consider you as an expert, so there are no wrong answers to any of our questions. While you answer questions or show your perceptions, please focus on the details of how you actually develop smart contracts. It may help to think about the last time you develop a smart contract in order for us to best understand your practices and challenges. 
 
@@ -73,5 +75,5 @@ Is there anything else regarding security practices in smart contract developmen
 Can you provide any feedback on this study?
 Can you suggest another interested person identifying as a smart contract developer who would like to get involved with the study?
 
-Thank you for your time. If you have any questions or concerns about this research, feel free to contact us! Email: tsharma6@illinois.edu 
+Thank you for your time. If you have any questions or concerns about this research, feel free to contact us!
 
