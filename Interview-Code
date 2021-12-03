@@ -1,0 +1,47 @@
+0. non thme/background
+1. Smart contract development experience
+2. Perception: Smart contract is secure program
+3. Experience in code auditing, research and wrriting SM
+4. Experience with smart contract security
+5. Experience with SM development tools
+6. Access control as security concerns
+7. Code (audited) re-use encouraged for cost effectiveness
+8. Some conformity to standard for code writing
+9. Deployment Challenges: Gas cost SM 
+10. Deployment experience
+11. Common and edge case consideration in Smart comtract security
+12. Team practice in SM code use and secuirty
+13. Challenges in Team level for SM security
+14. Challenges / Limitation in tools for Smart contract security
+15. Resources for learning security vulnerabilities
+16. Perception: Smart Contract is integrity of entity and rurle of transaction 
+17. Deployment Challenges: hash
+18. Perception: Smart Contract is a way of being innovative/interactive in blockchain
+19. Perception: Smart contract languages/ framework/ API is already secure
+20. Perception: Security means correctness
+21. overflow as security concerns
+22. delegate call as security concerns
+23. reentrancy as security concerns
+24 challenges in development from stratch for new developer
+25. Think dev tools, framework is already secure
+26. Development Speed as important factor
+27. Security often handled by others or auditing
+28. Contract security often not a top priority
+29. Deployment Challenges: code opt
+30. Deployment challenegs: mainnet
+31. Adversarial mindset in security consideration
+32. Security means functionality
+33. Securrity is main objective 
+34. Individual security practice 
+35. Security means protection against adversarial attacks:
+36. Security means impact
+37. Security Tools are not mature
+38. Security tools are complex to use (GUI)
+39. Ruggestion for tools improrvemnt
+40. Resources for learning smart contract coding
+41. Code audit concerns
+42. Security Tool development 
+43. Code Audit varience
+44. Solidity language limitations makes contract security hard
+45. Security is not  important when projects are deployed on testnets
+46. Manually inspection is the best way to code review
